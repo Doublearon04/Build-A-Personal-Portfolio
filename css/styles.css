@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  div{
+      background: #89CFF0
+    }
+  .main-section .loreipsum{
+    color: grey;
+    font-style: Italic;
+  }
+  .main-section .Bold{
+    font-weight: 800;
+  }
+
+  .computer-screen{
+    
+  }
