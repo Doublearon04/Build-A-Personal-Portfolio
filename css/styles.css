@@ -1,10 +1,14 @@
 html, body {
     height: 100%;
     width: 100%;
+    /* text-align: center */
+  }
+  body{
+    font-family: 'Lato', sans-serif;
   }
   
   div{
-      background: #89CFF0
+      background: hsl(133, 100%, 91%)
     }
   .main-section .loreipsum{
     color: grey;
@@ -15,5 +19,13 @@ html, body {
   }
 
   .computer-screen{
-    
+    border-radius: 30px;
+    width: 200px;
+    height:auto;
   }
+  #my-proj{
+    cursor: not-allowed; 
+  }
+#headers{
+    text-align: center
+}
